@@ -222,7 +222,7 @@ function App() {
               <p className="text-md mt-8">
                 made with ❤️ by{" "}
                 <a
-                  href="https://github.com/cloudwithax"
+                  href="https://github.com/cloudwithax/how-much-does-google-owe-russia"
                   className="text-blue-400"
                 >
                   clxud
